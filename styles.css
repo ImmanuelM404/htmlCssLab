@@ -1,0 +1,45 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    background-color:teal;
+    color: tan
+}
+
+ h1, p {
+    text-align: center;
+ }
+
+ p{
+     margin: 20px 200px;
+ }
+
+ h1 > span {
+     font-size: 16px;
+     margin: 0 50px;
+ }
+
+div {
+    width: 700px;
+    background-image: url(images/);
+    background-repeat: repeat;
+    color: burlywood
+}
+
+img {
+    height: 25px;
+    margin: 20px;
+    border: wheat;
+}
+
+button{
+    border: none;
+    background-color: magenta;
+    color: midnightblue;
+    border-radius: 20px;
+}
